@@ -1,0 +1,159 @@
+ADVANCED SCIENTIFIC CALCULATOR
+
+PROJECT DEMONSTRATION
+
+Project Type:
+Python Desktop Application
+
+Technology:
+Python with Tkinter GUI
+
+Description:
+The Advanced Scientific Calculator is a desktop-based calculator
+application developed using Python and Tkinter. It provides basic
+arithmetic, scientific calculations, statistics, memory operations,
+keyboard shortcuts, calculation history, programmer mode, and graph
+plotting functionality.
+
+
+MAIN FEATURES
+
+1. Basic Calculator
+   - Addition
+   - Subtraction
+   - Multiplication
+   - Division
+   - Percentage
+   - Power
+   - Decimal calculations
+   - Brackets
+   - Clear
+   - Backspace
+
+2. Scientific Calculator
+   - Sin
+   - Cos
+   - Tan
+   - Inverse trigonometric functions
+   - Logarithm
+   - Natural logarithm
+   - Square root
+   - Square
+   - Cube
+   - Factorial
+   - Reciprocal
+   - Pi
+   - Euler's number
+
+3. DEG / RAD Mode
+   - Degree calculations
+   - Radian calculations
+
+4. Memory Functions
+   - MC - Memory Clear
+   - MR - Memory Recall
+   - M+ - Memory Add
+   - M- - Memory Subtract
+   - Ans - Previous Answer
+
+5. Statistics Mode
+   - Count
+   - Sum
+   - Mean
+   - Median
+   - Mode
+   - Minimum
+   - Maximum
+   - Range
+   - Population Variance
+   - Population Standard Deviation
+
+6. Programmer Mode
+   - Separate programmer calculator module
+   - Launched from the main calculator
+
+7. Graph Plotting Mode
+   - Separate graph plotting module
+   - Launched from the main calculator
+
+8. Calculation History
+   - Stores previous calculations
+   - History scrolling
+   - Double-click to load a result
+   - Clear History
+
+9. Keyboard Shortcuts
+   - Number and operator input
+   - Scientific function shortcuts
+   - Memory shortcuts
+   - DEG/RAD shortcuts
+   - Function keys
+
+10. User Interface
+    - Professional Tkinter interface
+    - Light Mode
+    - Dark Mode
+    - Button hover effects
+    - Status messages
+    - Scrollable interfaces
+
+PROJECT FILES
+
+calcy.py
+Main calculator application.
+
+advanced_calculator.py
+Advanced scientific calculator module.
+
+programmer_mode.py
+Programmer Mode module.
+
+graph_mode.py
+Graph Plotting Mode module.
+
+demo.ipynb
+Project demonstration notebook.
+
+demo.txt
+Project demonstration information.
+
+README.md
+Project documentation.
+
+HOW TO RUN
+
+1. Open the project folder in Visual Studio Code.
+2. Open the VS Code terminal.
+3. Run the following command:
+   python calcy.py
+
+4. The Advanced Scientific Calculator window will open.
+
+TESTING
+
+The following major functions were tested:
+[PASS] Basic calculations
+[PASS] Scientific calculations
+[PASS] DEG/RAD modes
+[PASS] Memory functions
+[PASS] Previous Answer
+[PASS] Statistics Mode
+[PASS] Calculation History
+[PASS] Keyboard Shortcuts
+[PASS] Keyboard Shortcut scrolling
+[PASS] Light/Dark Mode
+[PASS] Programmer Mode
+[PASS] Graph Plotting Mode
+[PASS] Copy Result
+[PASS] Clear History
+
+Test Status:
+ALL MAJOR TESTS PASSED
+
+PROJECT STATUS
+Status: COMPLETED
+
+The Advanced Scientific Calculator has been implemented,
+tested, and prepared as an internship project.
+
+END OF DEMONSTRATION
