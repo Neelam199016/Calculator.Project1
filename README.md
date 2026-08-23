@@ -99,3 +99,19 @@ Example input:
 
 ```text
 10, 20, 20, 30, 40
+
+📁 Project Files
+
+| File | Description |
+|---|---|
+| `calcy.py` | Main calculator application |
+| `Advance_Calculator.py` | Advanced Scientific Calculator |
+| `Programmer_mode.py` | Programmer Mode |
+| `graph_mode.py` | Graph Plotting Mode |
+| `demo.ipnyb` | Project demonstration notebook |
+| `demo.txt` | Project demonstration information |
+| `Project2. presentation.pptx` | Internship project presentation |
+| `README.md` | Project documentation |
+| `LICENSE` | Project license |
+
+---
